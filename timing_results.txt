@@ -1,0 +1,3 @@
+Execution time for heuristic algorithm is : 10.444401993000156
+Execution time for metaheuristic algorithm is : 7.02110388500023
+Execution time for formule compacte algorithm is : 11.954921396999907
